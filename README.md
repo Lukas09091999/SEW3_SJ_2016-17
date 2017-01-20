@@ -56,6 +56,8 @@ Lies nun bitte die Vereinbarung im nächsten Kapitel. Bestätige den Inhalt, in 
 # SEW 3 - SJ 2xxx/xx
 ----
 Name: Vorname Nachname
+
+Ich bestätige hiermit die getroffene Vereinbarung.
 ```
 Damit ist es mir schneller möglich dich mit deinem richtigen Namen zu identifizieren - die Repos kommen beim clonen immer mit deinem GitHub-Usernamen an. Daraus läßt sich unter Umständen nicht schließen, von wem die Arbeit kommt.
 
@@ -73,7 +75,7 @@ Damit ist es mir schneller möglich dich mit deinem richtigen Namen zu identifiz
 
 * Für alle Übungen gibt es einen Endtermin, an dem die Übungen fertiggestellt sein müssen. 
 
-* Ich kümmere mich selbst darum, dass ich die Übungsangaben rechtzeitig bekomme. (Diese befinden sich entweder im bereitgestellten, im SEW Repository oder meinem Vorlagenlaufwerk)
+* Ich kümmere mich selbst darum, dass ich die Übungsangaben rechtzeitig bekomme. (Diese befinden sich entweder im SEW Repository oder meinem Vorlagenlaufwerk)
 
 * Ich bin jederzeit bereit, diese Übungen der Lehrkraft vorzuführen.
 
